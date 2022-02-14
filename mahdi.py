@@ -100,11 +100,11 @@ logo1 = """
 ##          ## ##    ##  ##     ####    ########
 
 ╔══──────────────────────────
-║ AUTHOR ✈✈✈🔥 FLAME NAIM🔥                 
-║  GITHUB ✈✈✈ Naim75o                                     
-║ FACEBOOK ✈✈✈ Flame Naim                          
-║  FB GROUP ✈✈✈ TERMUX JONE                    
-║   WHATSAPP ✈✈✈ 0174174779@                 
+║ AUTHOR ✈✈✈🔥 MAHDI HASAN SUVO🔥                 
+║  GITHUB ✈✈✈ Shuvo-BBHH                                     
+║ FACEBOOK ✈✈✈ mahdi.80808                          
+║  FB GROUP ✈✈✈ BD black hat hacker                    
+║   WHATSAPP ✈✈✈ 0184910816@                 
 ╚══──────────────────────────
 
 """
@@ -133,8 +133,8 @@ fb group: TBD black hat hacker
 Warning :⚠️ INBOX ME FACEBOOK FOR HELP⚠️
 
 """)
-CorrectUsername = "FLAME"
-CorrectPassword = "NAIM"
+CorrectUsername = "MAHDI"
+CorrectPassword = "HASAN"
 
 loop = 'true'
 while (loop == 'true'):
