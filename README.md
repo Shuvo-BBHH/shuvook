@@ -17,6 +17,7 @@ pkg install git -y
 pkg install figlet
 
 git clone https://github.com/Shuvo-BBHH/shuvook
+
 ls
 
 
