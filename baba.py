@@ -68,11 +68,10 @@ successful = []
 cpb = []
 oks = []
 id = []
+os.system('clear')
 print 'AUTHOR : MAHDI HASAN SHUVO'
 print 'FACEBOOK : MAHDI HASAN'
 print 'GITHUB : MAHDI-Shuvo'
-print("""\33[93m███╗   ███╗ █████╗██╗  ██╗██████╗ ██╗     \n\033[91m███╗ ████║██╔══██╗██║  ██║██╔══██╗██║    \n\033[1;32m██╔████╔██║███████║███████║██║  ██║██║   \n\33[97m██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║    \n\033[96m██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║    \n\033[0;35m╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝\033[0m\n \033[0m================================================================\n\33[93mAUTHOR :\033[91m[MAHDI HASAN] SHUVO\n\033[0;33mGITHUB : \033[1;97mhttps://github.com/MAHDI-Shuvo\nLIVE in Sylhet (Read in class 10)\n\033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU\n ================================================================""")
-
 name = raw_input('\x1b[1;92m\x1b[1;92m Enter Your Gf Name: ')
 os.system('xdg-open https://www.facebook.com/mahdihasan.80')
 
